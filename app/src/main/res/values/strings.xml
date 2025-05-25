@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Israa Notes</string>
+    <string name="note_page_title">Note Page</string>
+    <string name="hint_note_title">Enter note title</string>
+    <string name="hint_note_content">Enter note content</string>
+    <string name="btn_save_note">Save Note</string>
+    <string name="btn_back_home">Back to Home</string>
+
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_button">دخول</string>
+    <string name="username_hint">اسم المستخدم</string>
+    <string name="password_hint">كلمة المرور</string>
+
+
+
+</resources>
